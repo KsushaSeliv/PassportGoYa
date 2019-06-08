@@ -1,6 +1,6 @@
 # PassportGoYa
 
-## Приложение с двумя стратегиями авторизаци: Google и Яндекс
+## Две стратегии авторизации: Google и Яндекс
 ## Пакеты для установки
 
 npm install passport-google-oauth20
