@@ -2,7 +2,7 @@
 
 ## Пакеты для установки
 
-npm install passport-google-oauth20
+npm install passport-google-oauth2
 
 npm install -S express 
 
