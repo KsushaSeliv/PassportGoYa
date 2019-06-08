@@ -1,6 +1,6 @@
 # PassportGoYa
 
-Пакеты для установки
+## Пакеты для установки
 
 npm install passport-google-oauth20
 
